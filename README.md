@@ -3,12 +3,13 @@
 
 
 <h1 align="center">
-<img height="28" width="28" src="https://i.loli.net/2018/10/20/5bcad7e4bf535.png" /> 
-Easy Hexo</h1>
+Easy Hexo <img height="30" width="30" src="https://i.loli.net/2018/10/20/5bcad7e4bf535.png" /> 
+</h1>
 
 <br />
 
-[![GitHub stars](https://img.shields.io/github/stars/EasyHexo/Easy-Hexo.svg?style=flat-square&label=⭐%20Stars)](https://github.com/spencerwoo98/Dev-on-Windows-with-WSL)
+[![Build Status](https://img.shields.io/travis/EasyHexo/Easy-Hexo.svg?style=flat-square)](https://travis-ci.org/EasyHexo/Easy-Hexo)
+[![GitHub stars](https://img.shields.io/github/stars/EasyHexo/Easy-Hexo.svg?style=flat-square&label=⭐%20Stars)](https://github.com/EasyHexo/Easy-Hexo)
 ![love](https://img.shields.io/badge/Made%20with-love-ff69b4.svg?style=flat-square)
 
 
